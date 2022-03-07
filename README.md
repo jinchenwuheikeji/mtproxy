@@ -20,7 +20,7 @@ https://github.com/ellermister/mtproxy
 
 ```bash
 mkdir /home/mtproxy && cd /home/mtproxy
-curl -s -o mtproxy.sh https://raw.githubusercontent.com/ellermister/mtproxy/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
+curl -s -o mtproxy.sh https://raw.githubusercontent.com/jinchenwuheikeji/mtproxy/main/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
 ```
 
  ![mtproxy.sh](https://raw.githubusercontent.com/ellermister/mtproxy/master/mtproxy.jpg)
