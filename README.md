@@ -6,7 +6,11 @@ MTProxyTLS一键安装绿色脚本
 
 ## 交流群组
 
-Telegram群组：https://t.me/EllerHK
+Telegram群组：https://t.me/jinweikeji
+
+## 原作者库
+
+https://github.com/ellermister/mtproxy
 
 
 
